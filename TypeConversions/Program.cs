@@ -16,7 +16,7 @@ Console.WriteLine("h: " + h);
 float i = h;
 Console.WriteLine("i: " + i);
 
-string e = "Fatih";
+string e = "Buğra";
 char f = 'k';
 object g = e + f + d;
 Console.WriteLine("g:" + g);
