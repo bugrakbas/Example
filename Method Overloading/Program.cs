@@ -23,7 +23,7 @@ Console.WriteLine(toplamSonucu);
 int ifade = 999;
 instance.EkranaYazdir(Convert.ToString(ifade));
 instance.EkranaYazdir(ifade);
-instance.EkranaYazdir("Fatih", "Hacıoğlu");
+instance.EkranaYazdir("Buğra", "Akbaş");
 
 //Metot İmzası
 //metot adı + parametre sayısı + parametre
