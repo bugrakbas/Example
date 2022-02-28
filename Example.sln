@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veriables", "Veriables\Veriables.csproj", "{ED3D52B0-6C81-4FE8-B885-247DAD0F16DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Veriables", "Veriables\Veriables.csproj", "{ED3D52B0-6C81-4FE8-B885-247DAD0F16DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{61E250B8-E719-415A-8908-E0180F227DD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{61E250B8-E719-415A-8908-E0180F227DD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{D9C0A56F-76B7-4065-AE26-B0ADE5493E04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{D9C0A56F-76B7-4065-AE26-B0ADE5493E04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{6366B769-1807-4FA2-8C53-63A7E5950F21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{6366B769-1807-4FA2-8C53-63A7E5950F21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseIf", "IfElseIf\IfElseIf.csproj", "{33D244A4-46ED-48C2-B7FF-243F35B4A8B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfElseIf", "IfElseIf\IfElseIf.csproj", "{33D244A4-46ED-48C2-B7FF-243F35B4A8B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{DCA7D308-CE5A-43B4-858B-F00FC7B40EE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{DCA7D308-CE5A-43B4-858B-F00FC7B40EE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{D3CFC330-EC3F-4D3C-B09E-AC93A1497F1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DCA7D308-CE5A-43B4-858B-F00FC7B40EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCA7D308-CE5A-43B4-858B-F00FC7B40EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCA7D308-CE5A-43B4-858B-F00FC7B40EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CFC330-EC3F-4D3C-B09E-AC93A1497F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CFC330-EC3F-4D3C-B09E-AC93A1497F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CFC330-EC3F-4D3C-B09E-AC93A1497F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CFC330-EC3F-4D3C-B09E-AC93A1497F1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
