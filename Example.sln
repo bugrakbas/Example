@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension and Recursive Met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlogritmaSoruları1", "AlogritmaSoruları\AlogritmaSoruları1.csproj", "{089C4A59-159C-4DCD-ABCF-3E570C3867AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethods", "StringMethods\StringMethods.csproj", "{B47A24B9-2F35-40B6-8DEC-7DF46813FC1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{089C4A59-159C-4DCD-ABCF-3E570C3867AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{089C4A59-159C-4DCD-ABCF-3E570C3867AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{089C4A59-159C-4DCD-ABCF-3E570C3867AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47A24B9-2F35-40B6-8DEC-7DF46813FC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47A24B9-2F35-40B6-8DEC-7DF46813FC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47A24B9-2F35-40B6-8DEC-7DF46813FC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47A24B9-2F35-40B6-8DEC-7DF46813FC1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
