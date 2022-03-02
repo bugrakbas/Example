@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmaSoruları2", "AlgoritmaSoruları2\AlgoritmaSoruları2.csproj", "{A54CE2E9-E778-4644-950C-69BE0825C10F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class\Class.csproj", "{8A187C55-6262-474E-994E-28A4AF4151A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{A54CE2E9-E778-4644-950C-69BE0825C10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A54CE2E9-E778-4644-950C-69BE0825C10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A54CE2E9-E778-4644-950C-69BE0825C10F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A187C55-6262-474E-994E-28A4AF4151A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A187C55-6262-474E-994E-28A4AF4151A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A187C55-6262-474E-994E-28A4AF4151A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A187C55-6262-474E-994E-28A4AF4151A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
