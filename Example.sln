@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{5534CAA4-D62B-4EA6-91C4-89530B2A9B4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmaSoruları2", "AlgoritmaSoruları2\AlgoritmaSoruları2.csproj", "{A54CE2E9-E778-4644-950C-69BE0825C10F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{5534CAA4-D62B-4EA6-91C4-89530B2A9B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5534CAA4-D62B-4EA6-91C4-89530B2A9B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5534CAA4-D62B-4EA6-91C4-89530B2A9B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54CE2E9-E778-4644-950C-69BE0825C10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54CE2E9-E778-4644-950C-69BE0825C10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54CE2E9-E778-4644-950C-69BE0825C10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54CE2E9-E778-4644-950C-69BE0825C10F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
