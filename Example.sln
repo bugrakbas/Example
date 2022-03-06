@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClass", "StaticClass\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{16E17FC6-9769-47A3-91EF-0786C6B321C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{D6454147-3868-442D-A1BB-52BC3AD42EDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{16E17FC6-9769-47A3-91EF-0786C6B321C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16E17FC6-9769-47A3-91EF-0786C6B321C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16E17FC6-9769-47A3-91EF-0786C6B321C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6454147-3868-442D-A1BB-52BC3AD42EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6454147-3868-442D-A1BB-52BC3AD42EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6454147-3868-442D-A1BB-52BC3AD42EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6454147-3868-442D-A1BB-52BC3AD42EDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
