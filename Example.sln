@@ -35,23 +35,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringMethods", "StringMeth
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTime and Math", "DateTime and Math\DateTime and Math.csproj", "{8EFB3554-6B44-414C-860C-9FC2F0A7BAB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{C6DE4114-F639-42BE-AEFB-A03A279C4CCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericList", "GenericList\GenericList.csproj", "{C6DE4114-F639-42BE-AEFB-A03A279C4CCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{5534CAA4-D62B-4EA6-91C4-89530B2A9B4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList", "ArrayList\ArrayList.csproj", "{5534CAA4-D62B-4EA6-91C4-89530B2A9B4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmaSoruları2", "AlgoritmaSoruları2\AlgoritmaSoruları2.csproj", "{A54CE2E9-E778-4644-950C-69BE0825C10F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgoritmaSoruları2", "AlgoritmaSoruları2\AlgoritmaSoruları2.csproj", "{A54CE2E9-E778-4644-950C-69BE0825C10F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class\Class.csproj", "{8A187C55-6262-474E-994E-28A4AF4151A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class", "Class\Class.csproj", "{8A187C55-6262-474E-994E-28A4AF4151A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{946496D8-72DF-42B2-A578-A8C30B33BD0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\Constructor.csproj", "{946496D8-72DF-42B2-A578-A8C30B33BD0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{DD145FA8-E51A-4093-B687-FD031F623BD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{DD145FA8-E51A-4093-B687-FD031F623BD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClass", "StaticClass\StaticClass.csproj", "{38152C50-C45B-4FA7-B329-4C8401FDC2B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClass", "StaticClass\StaticClass.csproj", "{38152C50-C45B-4FA7-B329-4C8401FDC2B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{16E17FC6-9769-47A3-91EF-0786C6B321C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Struct", "Struct\Struct.csproj", "{16E17FC6-9769-47A3-91EF-0786C6B321C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{D6454147-3868-442D-A1BB-52BC3AD42EDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum", "Enum\Enum.csproj", "{D6454147-3868-442D-A1BB-52BC3AD42EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonRehberi", "TelefonRehberi\TelefonRehberi.csproj", "{0D6D66C9-15B6-412B-907F-BE492E509CFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{D6454147-3868-442D-A1BB-52BC3AD42EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6454147-3868-442D-A1BB-52BC3AD42EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6454147-3868-442D-A1BB-52BC3AD42EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D6D66C9-15B6-412B-907F-BE492E509CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6D66C9-15B6-412B-907F-BE492E509CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6D66C9-15B6-412B-907F-BE492E509CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6D66C9-15B6-412B-907F-BE492E509CFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
